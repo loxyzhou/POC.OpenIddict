@@ -1,0 +1,11 @@
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\bin\Debug\net6.0\IdentityService.Shared.deps.json
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\bin\Debug\net6.0\IdentityService.Shared.dll
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\bin\Debug\net6.0\IdentityService.Shared.pdb
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.AssemblyInfoInputs.cache
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.AssemblyInfo.cs
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.csproj.CoreCompileInputs.cache
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.dll
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\refint\IdentityService.Shared.dll
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\IdentityService.Shared.pdb
+D:\CERTIS\git\Samples\POC.OpenIddict\IdentityService.Shared\obj\Debug\net6.0\ref\IdentityService.Shared.dll

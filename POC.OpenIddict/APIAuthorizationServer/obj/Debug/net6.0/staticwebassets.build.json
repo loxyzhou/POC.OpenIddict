@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "cu85fG49RhVbgrwrPW5+XuYhKjJSWy9rMYE05ffrWaI=",
+  "Source": "APIAuthorizationServer",
+  "BasePath": "_content/APIAuthorizationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIAuthorizationServer\\wwwroot",
+      "Source": "APIAuthorizationServer",
+      "ContentRoot": "D:\\CERTIS\\git\\Samples\\POC.OpenIddict\\APIAuthorizationServer\\wwwroot\\",
+      "BasePath": "_content/APIAuthorizationServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CERTIS\\git\\Samples\\POC.OpenIddict\\APIAuthorizationServer\\wwwroot\\swagger\\ui\\swagger-custom.js",
+      "SourceId": "APIAuthorizationServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CERTIS\\git\\Samples\\POC.OpenIddict\\APIAuthorizationServer\\wwwroot\\",
+      "BasePath": "_content/APIAuthorizationServer",
+      "RelativePath": "swagger/ui/swagger-custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\swagger-custom.js"
+    }
+  ]
+}
